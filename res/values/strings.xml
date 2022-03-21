@@ -1,0 +1,443 @@
+<resources>
+
+    <!--ACTIVITY BIENVENIDA-->
+    <string name="bienvenida">¿No sabes por quién votar?\n ¡Pues, para de sufrir!\n ¡Esta es la app que estabas buscando!\n
+        En "TuVoto"  podrás encontrar toda la información precisa y
+        necesaria para tomar una mejor decisión en estas elecciones.
+    </string>
+    <string name="continuar">CONTINUAR</string>
+    <string name="titulobienvenida">¡Bienvenido(a) a TuVoto!</string>
+    <string name="app_name">TuVoto</string>
+
+    <!--ACTIVITY PRINCIPAL-->
+    <string name="nombreApp">TuVoto</string>
+    <string name="boton1">PARTIDOS POLITICOS</string>
+    <string name="boton2">PROPUESTAS POR CATEGORIA</string>
+    <string name="boton3">INFO</string>
+
+    <!--CATEGORIAS-->
+    <string name="categorias">Categorias</string>
+    <string name="educacion">Educación</string>
+
+    <!--Parte de Fiorella-->
+    <string name="titulo_juntos_peru">Juntos por el Perú</string>
+    <string name="titulo_somos">Somos Perú</string>
+    <string name="titulo_renova">Renova Perú</string>
+    <string name="titulo_partido_morado">Partido Morado</string>
+    <string name="titulo_v_nacional">Victoria Nacional</string>
+    <string name="titulo_accion_popular">Acción Popular</string>
+    <string name="titulo_avanza_Pais">Avanza País</string>
+    <string name="titulo_alianza">Alianza para el Progreso</string>
+    <string name="titulo_fuerza_popular">Fuerza Popular</string>
+
+    <string name="Ib">Partido</string>
+    <string name="vista_salud">Salud</string>
+    <string name="foto_candidato">candidato foto</string>
+
+
+    <!--ACTIVITY PARTIDOS POLITICOS-->
+    <string name="tuv_Titulo">Tuvoto</string>
+    <string name="tv_Titulo_partidos">Lista de partidos políticos</string>
+
+    <string name="tv_titulo_alianza">
+        PROPUESTA DE ALIANZA PARA EL PROGRESO
+    </string>
+    <string name="prop_salud_alianza">
+        Mejoraremos el acceso a la atención, prevención y educación en salud mediante un Servicio voluntario
+        (médicos, dentistas, enfermeras, nutricionistas, estudiantes de medicina,
+        odontología, enfermería y nutrición)que permita aumentar la cobertura en salud en las zonas
+        más pobres de la ciudad.
+    </string>
+    <string name="prop_edu_alianza">
+        *Mejoraremos la calidad y el acceso a la educación en los sectores más pobres mediante un Servicio voluntario en Educación (maestros jubilados y estudiantes de educación).<br />
+        *Apoyaremos la mejora de la calidad del sistema educativo mediante la creación de Centros de Información en los Municipios Distritales que contengan: biblioteca, Internet y laboratorios, para difundir el conocimiento.<br />
+        *Implementar programas que incentiven a las personas menos pudientes a enviar a sus hijos a estudiar en los colegios públicos, tales como: alimentación complementaria (desayuno y almuerzo escolar).<br />
+        *Realizaremos programas de salud preventiva en los colegios públicos de la capital.<br />
+        *Mantenimiento de la infraestructura y mobiliario en los colegios públicos mediante convenios particulares con empresas.<br />
+
+    </string>
+    <string name="prop_eco_alianza">
+        *Facilitando la integración del Municipio en la economía globalizada y en la Sociedad de la Información.<br />
+        *El crecimiento sostenido de la economía peruana que tuvimos ha generado un incremento del empleo, aumentando
+        la demanda en el transporte público y ésta demanda con el diseño actual del sistema de transporte público de la ciudad
+        no es capaz de absorber de manera sostenible este incremento.
+    </string>
+    <string name="prop_deso_alianza">
+        *Facilitando la integración del Municipio en la economía globalizada y en la Sociedad de la Información.<br />
+        *El crecimiento sostenido de la economía peruana que tuvimos ha generado un incremento del empleo, aumentando
+        la demanda en el transporte público y ésta demanda con el diseño actual del sistema de transporte público de la ciudad
+        no es capaz de absorber de manera sostenible este incremento.
+    </string>
+    <string name="prop_seg_alianza">
+        *Integración en tiempo real del Centro de Control de Monitoreo de Seguridad
+        Ciudadana de Lima Metropolitana con todos los distritos, asimismo se promocionará
+        la incorporación de cámaras de seguridad privadas (externas) en la red de la central
+        de monitoreo, programa “Adopta una Cámara”, contemplándose la implementación
+        privada de cámaras de seguridad con reducciones impositivas municipales. Asimismo
+        se llevará a cabo el sistema en el programa “Adopta un Botón de Alerta”, a ser ubicado,
+        prioritariamente, en zonas críticas de aglomeración de personas.<br />
+        *Lograr la participación activa de la población, a través de las Juntas Vecinales, para
+        colaborar en acciones preventivas, de información, estableciendo una comunicación y
+        coordinación permanente con éstas, brindando información oportuna, a fin de
+        canalizarlas tanto a las comisarías como al Serenazgo, ya que los vecinos están en
+        muchas ocasiones en mejor posición para identificar focos delictivos o personas de
+        mal vivir u otra información de interés. No se expondrá en ningún momento a los
+        ciudadanos a realizar actos en que pueda peligrar su integridad física como realizar
+        patrullajes de sus calles, arresto ciudadanos, etc.<br />
+        *Sí promoveremos el arresto ciudadano del Serenazgo, de acuerdo a lo que indica el
+        nuevo Código Procesal Penal en su artículo 260°, previa capacitación en el uso de
+        técnicas de intervención, así como en el uso de armas no letales, la preparación y
+        monitoreo tecnológico evitará detenciones basadas en la mera sospecha de
+        culpabilidad, sino en flagrante delito.<br />
+        *Implementaremos el “Serenazgo sin Fronteras” en todos los distritos, apoyando con
+        personal y material a los distritos que no tengan suficiente capacidad para contar un
+        servicio de Serenazgo adecuado. Intercomunicaremos el enlace entre los serenazgos
+        de todos los distritos y se ubicarán agentes en principales lugares de riesgo ante
+        concentración de transeúntes (por ejemplo: centros de estudio, centros comerciales,
+        etc.).<br />
+    </string>
+    <string name="prop_cult_alianza">
+        *Realizaremos programas de defensa del Patrimonio Municipal y Nacional como
+        para Museos, Zonas Arqueológicas, etc.<br />
+        *Llevaremos a cabo programas de intercambio cultural promoviendo concursos,
+        ferias, exposiciones y presentaciones<br />
+        *Impulsaremos la puesta y valor de todas las Huacas que se encuentren en Lima
+        Metropolitana.<br />
+    </string>
+    <string name="tv_titulo_avanza_pais">
+        PROPUESTAS DE AVANZA PAIS
+    </string>
+    <string name="prop_salud_avanza">
+        Promover una política de salud pública con rostro humano, que permita a los usuarios un real
+        acceso a los servicios de salud, poniendo especial énfasis en la calidad de la atención a los pacientes
+    </string>
+    <string name="prop_edu_avanza">
+        *Contribuir a la educación y participación política de la población, con el objeto de forjar una cultura cívica y democrática, que permita formar ciudadanos capacitados para asumir funciones públicas.<br />
+        *Poner énfasis en una educación de calidad para formar ciudadanos educados en valores, que permitan la sostenibilidad de procesos de desarrollo y modernización nacionales.<br />
+
+    </string>
+    <string name="prop_eco_avanza">
+        Nuestro Plan de Gobierno está articulado con el plan estratégico de desarrollo nacional, marco macroeconómico multianual,
+        el Plan Regional de Lima Metropolitana, priorizando y respetando los Derecho Humanos,la lucha contra la pobreza y
+        la búsqueda del bienestar
+    </string>
+    <string name="prop_seg_avanza">
+        * Implementación del Plan maestro de seguridad ciudadana.<br />
+        *Instalación e implementación de unidades integradas de monitoreo y vigilancia.<br />
+    </string>
+    <string name="prop_deso_avanza">
+        *Establecer y ejecutar un plan de recolección de residuos sólidos y limpieza.
+        * Establecer y ejecutar un plan de capacitación y difusión a los vecinos para facilitar la disposición de los residuos
+        en forma segregada y acorde con los estándares de salubridad y saneamiento ambiental
+
+    </string>
+    <string name="prop_cult_avanza">
+        *Desarrollar un plan de intercambio cultural y recreativo entre ciudades nacionales y extranjeras para los adultos mayores<br />
+    </string>
+    <string name="tv_titulo_fuerza_popular">
+        PROPUESTAS FUERZA POPULAR:
+    </string>
+    <string name="prop_salud_fuerza_popular">
+        Acceso a prestaciones	esenciales de salud para todos los peruanos, con énfasis en poblaciones vulnerables.
+        Fortalecer las competencias sanitarias de las instancias gubernamentales.
+        Garantizar el financiamiento para la atención de las enfermedades comunes, complejas y de alto costo a nivel nacional.
+    </string>
+    <string name="prop_edu_fuerza_popular">
+        *Diseñar e implementar distintos modelos de educación inicial adaptados a la diversidad del país.
+        *Promover una	cultura	de paz y reconciliación nacional a través del cumplimiento de la obligación del Estado de brindar reparaciones, erradicar la impunidad y fortalecer la educación en	Derechos Humanos en todos los niveles.
+    </string>
+    <string name="prop_eco_fuerza_popular">
+    Promover y defender una economía social de mercado, que constituya el medio para articular
+    ventajosamente a la región al
+    resto del país y al mundo, a fin de lograr un desarrollo integral que permita acabar
+    progresivamente con la pobreza,
+    la marginación y la exclusión existentes.
+    </string>
+    <string name="prop_seg_fuerza_popular">
+        * Fortalecer la capacidad de inteligencia de nuestras fuerzas armadas aparejada de un mayor	 control a cargo del Congreso, respecto de sus actividades.<br />
+        *Implementar el sistema de reservas y movilización nacional. <br />
+        *Fortalecer la capacidad técnica de nuestras fuerzas armadas de la mano con una mejora en los salarios y las prestaciones de salud y bienestar.<br />
+        *Complementar las recomendaciones	 de la CVR para reparar a las víctimas militares del terrorismo.<br />
+        *Fortalecer las capacidades técnicas de nuestras fuerzas armadas para responder a emergencias ocasionadas por los distintos desastres naturales.<br />
+
+    </string>
+    <string name="prop_deso_fuerza_popular">
+        *Promoveremos la inversión en infraestructura pública mediante asociaciones público privadas, incluidas en un Plan de Desarrollo con visión de	 crecimiento a nivel país.<br />
+        *Desarrollaremos espacios productivos descentralizados mediante la implementación de parques industriales y tecnológicos.
+
+    </string>
+    <string name="prop_cult_fuerza_popular">
+        * Los principales atractivos turísticos requieren inversión conjunta del Estado y el sector	privado para repotenciar las capacidades de desarrollo turístico
+        pendientes	en	cada una de las regiones.
+    </string>
+    <string name="tv_titulo_morado">
+        PROPUESTAS PARTIDO MORADO:
+    </string>
+    <string name="prop_salud_morado">
+        Revisión trimestral del cumplimiento del gasto público en salud: redes MINSA, ESSALUD y FFAA.
+        Seguimiento de casos sociales relacionados con la calidad de los servicios de salud del estado en
+        sus diferentes aspectos que sean presentados ante la bancada.
+    </string>
+    <string name="prop_edu_morado">
+        *Propondremos cambiar la elección del superintendente de la SUNEDU, de tal forma que sea por concurso abierto, en vez de designación por el Ministerio de Educación.
+    </string>
+    <string name="prop_eco_morado">
+        Propondremos acelerar la aprobación de legislación para regular las plataformas tecnológicas que realizan operaciones<br />
+        financieras (tales como BITCOINS). El PL 4424/2018-PE se encuentra ya en la Comisión de Economía.
+    </string>
+    <string name="prop_seg_morado">
+       *Fortalecer la inteligencia y la investigación criminal para desarticular las organizaciones criminales,
+        con participación conjunta de la policía y la fiscalía (megas operativos).
+    </string>
+    <string name="prop_deso_morado">
+      * La protección del medio ambiente, el desarrollo sostenible y la prevención de los efectos del cambio climático no son sólo temas
+        de carácter técnico o causas que promueven las organizaciones sociales. Son asuntos de carácter fundamentalmente político,
+        que deben ser abordados urgentemente para preservar los ecosistemas que soportan el desarrollo económico y social.<br />
+    </string>
+    <string name="prop_cult_morado">
+        *Promoción con incentivos y fondos concursables para revalorización de sus activos
+        Culturales, impulso y subsidios tributarios en la etapa de inicio.
+        *Incorporar mecanismos de recuperación y protección del patrimonio material e
+        inmaterial (certificación de conocimiento tradicionales, procesos y recetas de
+        medicina tradicional, especies endémicas, denominación de origen, etc.).
+        *Intervención en ciudades intermedias con la dotación de más servicios y condiciones
+        de acceso a bienes que estimulen las economías de territorios más alejados
+    </string>
+    <string name="tv_titulo_juntos">
+        PROPUESTAS JUNTOS POR EL PERU:
+    </string>
+    <string name="prop_salud_juntos">
+        Orienta su trabajo político hacia los organismos sociales de base organizados para los asuntos
+    </string>
+    <string name="prop_edu_juntos">
+        Contribuir a la educación y participación política de la población, con el objeto de forjar una cultura cívica y democrática, que permita formar ciudadanos capacitados para asumir funciones públicas
+    </string>
+    <string name="prop_eco_juntos">
+       * Propondremos acelerar la aprobación de legislación para regular las plataformas tecnológicas que realizan operaciones
+        financieras (tales como BITCOINS). El PL 4424/2018-PE se encuentra ya en la Comisión de Economía.
+    </string>
+
+    <string name="tv_titulo_salud_somos">
+        PROPUESTAS SOMOS PERU:
+    </string>
+    <string name="prop_salud_somos">
+        Establecer convenios de cooperación interinstitucionales entre la Municipalidad Metropolitana, Municipalidades Distritales,
+        Ministerio de Salud, ESSALUD y los Operadores Privados de Salud.
+        Convenios entre la Municipalidad e instituciones involucradas en salud pública y prevención de desnutrición, consumo de drogas
+        y alcohol y comprometidas en su erradicación
+    </string>
+    <string name="prop_edu_somos">
+        *Coordinación con Instituciones públicas, privadas y sociedad civil para promover la educación ambiental y la acción responsable con el medio ambiente.
+        *Implementación de Cursos de Educación Técnico Productivo para estudiantes de 3°, 4° y 5° de secundaria.
+
+    </string>
+    <string name="prop_eco_somos">
+        *Política de Estado del Acuerdo Nacional: Competitividad, productividad y formalización económica dentro del Eje Competitividad del país.
+        *Agenda 2030: Objetivos de Desarrollo Sostenible N° 8: Trabajo decente y crecimiento económico.
+    </string>
+    <string name="tv_titulo_accion_popular">
+        PROPUESTA DE ACCION POPULAR:
+    </string>
+    <string name="prop_salud_accion_popular">
+        Se reducirá la anemia infantil, especialmente en las áreas rurales y amazónicas desde el 57 % actual a por lo menos un 10%
+        Se combatirá como prioridad fundamental la desnutrición infantil, para continuar su reducción del actual nivel de 14.6 % a menos del 5 %.
+    </string>
+    <string name="prop_edu_accion_popular">
+        * Establecer un solo sistema para toda la educación superior, eliminando la discriminación peyorativa de lo universitario y el resto como no Universitario.
+        * Generar incentivos que combatan el abandono de la educación primaria y secundaria.
+    </string>
+
+    <string name="prop_eco_accion_popular">
+        Promover una economía competitiva y diversificada; integrada por la vialidad, el transporte y la conectividad,
+        articulada por los mercados para generar riqueza, mediante la inversión pública y privada, y por la aplicación de la ciencia
+        y la tecnología, para la creación y multiplicación de empleo digno,
+        con mayor valor agregado y una justa distribución del ingreso y la riqueza
+    </string>
+    <string name="prop_seg_accion_popular">
+       * Voluntad política e inteligencia policial para enfrentar el crimen organizado, la corrupción de gran escala,
+        el narcotráfico y las mafias instauradas a nivel nacional.
+    </string>
+    <string name="prop_deso_accion_popular">
+        * Promover el desarrollo armónico con la naturaleza y el uso racional de los recursos naturales, generando una sostenibilidad económica, ambiental y social.
+        *Desarrollar una actividad forestal compatible y sostenible con el desarrollo del medio ambiente.
+    </string>
+    <string name="prop_cult_accion_popular">
+      * Fortalecer la identidad nacional y acrecentar la autoestima personal, reconociendo y valorando nuestra multiculturalidad y el
+        legado histórico de nuestros antepasados
+    </string>
+
+
+
+    <!-- ACTIVITY DE INFO-->
+    <string name="info1">¿QUIÉNES ESTÁN DETRÁS DE ESTA INICIATIVA?</string>
+    <string name="info2">Somos un grupo de estudiantes de la Universidad Nacional de Ingenieria de la carrera de Ciencias
+        de la Computación con ganas de apoyar al desarrollo del país.\n
+        Es por ello, que decidimos diseñar esta app con el fin de que los ciudadanos tomen más conciencia de su voto y
+        estén más informados sobre los candidatos a la Presidencia de la República.</string>
+    <string name="info3">¿QUÉ PUEDO HACER EN ESTA APP?</string>
+    <string name="info4">En esta app te podrás enterar acerca de las propuestas, denuncias y hoja de
+        vida de los aspirantes al sillón presidencial.\n\n
+        Además, para que nuestra app sea más amigable con el elector, decidimos implementar una sección de Propuestas
+        por Categorías. En dicha sección, el elector podrá seleccionar la categoría que le interesa y leer las diferentes
+        propuestas de los partidos que estén relacionadas a la categoría seleccionada.\n\n
+        Por ejemplo, si el elector selecciona la categoría Salud, verá las propuestas de todos los partidos que tengan
+        relación con dicha categoría.</string>
+    <string name="info5">Los desarrolladores de TuVoto esperamos que esta app sea de gran utilidad para todos nuestros
+        compatriotas para que así podamos realizar un voto consciente e informado.</string>
+    <string name="info6">DESARROLLADORES:</string>
+    <string name="info7"> - Meza Rodríguez, Fiorella\n- Paredes López, Maxwell\n- Estrada Cántaro, Piero</string>
+
+    <!--FUERZA POPULAR-->
+    <string name="nombre_keiko">Keiko Sofia Fujimori Iguchi</string>
+    <string name="edad_keiko">
+        EDAD:
+    </string>
+    <string name="keiko_edad">
+       45 años
+    </string>
+    <string name="estudios_keiko">ESTUDIOS:</string>
+    <string name="keiko_estudios">
+            Pregrado:<br />  Universidad Nacional de Boston (EE.UU) <br />
+            Administración de empresas<br /> 1995-1997<br />
+           Postgrado:<br /> maestría en ADministración de empresas por la <br />
+           Universidad de Columbia(EE.UU)<br />
+
+    </string>
+    <string name="experiencia_keiko">EXPERIENCIA:</string>
+    <string name="keiko_experiencia">
+            Centro de trabajo:  Congreso de la República<br />
+            Sector y Condición: Público dependiente<br />
+            Cargo: Congresista<br />
+            Periodo: 2006-2011<br />
+            Centro de trabajo: Fundación Peruana Cardioinfantil<br />
+            Sector y Condición:  Privado<br />
+            Cargo:  Presidencia<br />
+            Periodo:  1996-2006<br />
+            Centro de trabajo: Oportunidades Instituto para el Desarrollo<br />
+            Sector y Condición: Privado<br />
+            Cargo: Presidenta<br />
+            Periodo: 2011- Actualidad<br />
+    </string>
+    <string name="denuncias_keiko">
+        DENUNCIAS:<br />
+    </string>
+    <string name="keiko_denuncias">
+        Denuncias por loderar una organización criminal enquistada en su partido para captar dinero ilícito y así<br />
+        acceder al poder político , para luego retribuirlo con actos de corrupción<br />
+    </string>
+
+    <!--PARTIDO MORADO-->
+    <string name="nombre_morado_julio">Julio Armando Guzmán Cáceres</string>
+    <string name="edad_julio">
+        EDAD:
+    </string>
+    <string name="julio_edad">
+       50 años
+    </string>
+    <string name="estudios_julio">FORMACIÓN:</string>
+    <string name="julio_estudios">
+        Pregrado:<br />
+            Pontificia Universidad Católica del Perú-Economía<br />
+        Postgrado:<br />
+            Maestría en Póliticas Públicas en Universidad de Georgetown<br />
+            Doctorado en Políticas Públicas por la Univerdad de Maryland<br />
+    </string>
+    <string name="experiencia_julio">EXPERIENCIA LABORAL:</string>
+    <string name="julio_experiencia_laboral">
+            Centro de trabajo:<br />  Presidencia de Consejo de Ministros<br />
+            Sector y Condición:<br /> Público dependiente<br />
+            Cargo:<br /> Secretario General<br />
+            Periodo:<br /> 2012-2013<br />
+            Centro de trabajo:<br />  Ministerio de Producción<br />
+            Sector y Condición:<br /> Público dependiente<br />
+            Cargo:<br /> Viceministro<br />
+            Periodo:<br /> 2011<br />
+         Centro de trabajo:<br /> Banco Interamericano del Desarrollo<br />
+            Sector y Condición:<br /> Público dependiente<br />
+            Cargo:<br /> Economista de integración y comercio<br />
+            Periodo:<br /> 2001-2011<br />
+    </string>
+    <string name="denuncias_julio"> DENUNCIAS: </string>
+    <string name="julio_denuncias">
+        Denuncia por el delito de lavado de activos debido a que habría<br /> recibido U$$400 mil
+        de la constructora Odebrecht para su campaña del 2016<br />
+    </string>
+
+        <!--PARTIDO SOMOS PERU-->
+
+    <string name="nombre_somos_salaverry">Daniel Enrique Salaverry Villa </string>
+    <string name="historia_Somos_Salaverry">
+        Es un bachiller en arquitectura, empresario y politico peruano.<br />
+        Se desempeñó como parlamentario y presidente del Congreso de la República entre el 26 de julio de<br />
+        2018 y el 27 de julio de 2019.
+    </string>
+    <string name="estudios_salaverry">ESTUDIOS:</string>
+    <string name="salaverry_estudios">
+     Pregrado - Universidad Privada Cesar Vallejo (Trujillo) - Arquitectura / 2006-2015
+    </string>
+    <string name="militancia_salaverry">MILITANCIA:</string>
+    <string name="salaverry_militancia">
+        PARTIDO APRISTA PERUANO - afiliacion: 23/01/2008 - desafiliacion: 07/02/20014.
+        FUERZA POPULAR - afiliacion: 13/02/2018 - desafiliacion: 10/01/20019. SOMOS PERÚ - afialiacion: 25/09/2020
+    </string>
+    <string name="denuncias_salaverry"> DENUNCIAS: </string>
+    <string name="salaverry_denuncias">
+        Denuncias por los delitos de peculado doloso y falsedad ideológica por supestamente haberse apropiado del
+        presupuesto destinado a gastos de representacion en el año 2017
+    </string>
+
+    <string name="nombre_veronika">Veronika Mendoza Frisch</string>
+    <string name="edad_veronika">EDAD:</string>
+    <string name="veronika_edad">39 años</string>
+    <string name="estudios_veronika">ESTUDIOS:</string>
+    <string name="veronika_estudios">
+    <b>Pregrado:</b> <br />  Universidad Denis Diderot<br />
+    Administración de empresas<br /> Universidad Nacional de San Antonio Abad del Cuzco-Arquitectura (Inconcluso)<br />
+    Postgrado:<br /> Univesidad Nueva Sorbona <br />
+    Ciencias Sociales<br />
+    </string>
+    <string name="militancia_vero">MILITANCIA:</string>
+    <string name="vero_militancia">
+        Partido Nacionalista Peruano<br />
+        Afiliación: 15/07/2009<br />
+        Desafiliación: 04/06/2012<br />
+        Coordinadora del Comite de Apoyo Internacional (2007)
+        Secretaria de Prensa de juventudes(2009)
+        Vocera de la Comisión de la mujer (2010-2011)
+    </string>
+    <string name="experiencia_vero">EXPERIENCIA:</string>
+    <string name="vero_experiencia">
+            Centro de trabajo:<br />  Instituto Acadomia<br />
+            Sector y Condición:<br /> Privado-Dependiente<br />
+            Cargo:  Congresista<br />
+            Periodo: 2007-2008<br />
+            Centro de trabajo:  Congreso de la República<br />
+            Sector y Condición:  Público Dependiente<br />
+            Cargo: Congresista<br />
+            Periodo: 2011-2016<br />
+            Centro de trabajo:  Asociación Pukllasunchis<br />
+            Sector y Condición:  Privado-Dependiente<br />
+            Cargo: Investigadora<br />
+            Periodo: 2009-2010<br />
+            Centro de trabajo:  Asociación Pukllasunchis<br />
+            Sector y Condición:  Privado-Dependiente<br />
+            Cargo:  Miembro del Equipo Pedagógico<br />
+            Periodo:  2010<br />
+            Centro de trabajo: Universidad Nacional del Antiplano<br />
+            Sector y Condición:<br /> Público-Condicional<br />
+            Cargo:<br /> Docente Invitada en Diplomado <br />
+            Periodo:<br /> 2009 <br />
+    </string>
+    <string name="denuncias_vero">
+        DENUNCIAS:<br />
+    </string>
+    <string name="vero_denuncias">
+       1-Rol en ONG PRODIN : (ONG que recibió aportes de Fundación llegada al Partido Republicano de los EE.UU-IRI ,Odebrecht y OAS en
+        los años 2006 y 2011)Enrique Juscamaita ,excoordinador de Prodin aseguró ante el fiscal<br />
+        Germán Juárez que Veronika Mendoza fue representante de dicha ONG en el año 2010. Álvaro Gutiérrez<br />
+        excongresista que entregó las agendas de Nadine también lo afirmó<br />
+        2-Cometió en GRAVE error , que costó mucho en víctimas y procesos y de paso eliminó
+        posibilidad de un reclamo justo ,en el caso del proyecto Los Quechuas.
+    </string>
+
+</resources>

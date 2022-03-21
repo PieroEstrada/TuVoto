@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_jp"
+    tools:context=".JuntosPeru">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="?attr/colorPrimary"
+        android:backgroundTint="#21A226"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/veronika_nombre_completo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/nombre_veronika"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            />
+    </androidx.appcompat.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="79dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="80dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+
+
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="211dp"
+                android:layout_height="167dp"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@drawable/veronika" />
+
+            <TextView
+                android:id="@+id/edad_julio"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/edad_veronika"
+                android:textColor="#2E6730"
+                android:textSize="16sp"
+
+
+                />
+
+            <TextView
+                android:id="@+id/edad_v"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/veronika_edad"
+                android:textColor="#212F22"
+                android:textSize="16sp"
+
+
+                />
+
+            <TextView
+                android:id="@+id/formacion_vero"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/estudios_veronika"
+                android:textColor="#2E6730"
+                android:textSize="16sp"
+
+
+                />
+
+            <TextView
+                android:id="@+id/formacion_ve"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/veronika_estudios"
+                android:textColor="#212F22"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/mili_v"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/militancia_vero"
+                android:textColor="#2E6730"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/mili_vero"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/vero_militancia"
+                android:textColor="#212F22"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/exp_ve"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/experiencia_vero"
+                android:textColor="#2E6730"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/vero_exp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/vero_experiencia"
+                android:textColor="#212F22"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/denuncias_v"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/denuncias_vero"
+                android:textColor="#2E6730"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/vero_denun"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/vero_denuncias"
+                android:textColor="#212F22"
+                android:layout_marginBottom="40dp"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>
