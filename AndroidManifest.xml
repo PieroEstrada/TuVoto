@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tuvoto">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TuVoto">
+        <activity android:name=".AlianzaProgreso"></activity>
+        <activity android:name=".JuntosPeru" />
+        <activity android:name=".AvanzaPais" />
+        <activity android:name=".RenovacionPopular" />
+        <activity android:name=".FuerzaPopular" />
+        <activity android:name=".AccionPopular" />
+        <activity android:name=".PartidoMorado" />
+        <activity android:name=".PartidosPoliticos" />
+        <activity android:name=".Otros" />
+        <activity android:name=".ReformaEstado" />
+        <activity android:name=".BienestarSocial" />
+        <activity android:name=".Cultura" />
+        <activity android:name=".DesarrolloSostenible" />
+        <activity android:name=".SeguridadNacional" />
+        <activity android:name=".Economia" />
+        <activity android:name=".Educacion" />
+        <activity android:name=".Salud" />
+        <activity android:name=".SomosPeru" />
+        <activity android:name=".Categorias_" />
+        <activity android:name=".Categorias" />
+        <activity android:name=".Info" />
+        <activity android:name=".Bienvenida">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
